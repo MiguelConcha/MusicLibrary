@@ -1,16 +1,14 @@
-  - [ ] 65daysofstatic
+  - [x] 65daysofstatic
   - [ ] Abel Korzeniowski
   - [ ] Agalloch
-  - [ ] Agallock
   - [ ] Aghast
   - [ ] Alcest
   - [ ] All Will Be Quiet
   - [ ] Amesoeurs
   - [ ] Amiina
-  - [ ] Anamanaguchi
+  - [x] Anamanaguchi
   - [ ] And So I Watch You From Afar
   - [ ] Angelo Badalamenti
-  - [ ] Aphex Twin
   - [ ] Aphex Twin
   - [ ] April Rain
   - [ ] Arab Strap
@@ -29,7 +27,7 @@
   - [ ] Burzum
   - [ ] CHVRCHES
   - [ ] Camera Obscura
-  - [ ] Caspian
+  - [x] Caspian
   - [ ] Chopin
   - [ ] Chromatics
   - [ ] Coctaeu Twins
@@ -40,11 +38,11 @@
   - [ ] Cul de Sac
   - [ ] Current 93
   - [ ] Dan Caine
-  - [ ] Deafheaven
+  - [x] Deafheaven
   - [ ] Death Grips
   - [ ] Death in June
   - [ ] Die Antwoord
-  - [ ] Die Verbannten Kinder Evas
+  - [x] Die Verbannten Kinder Evas
   - [ ] Digitalism
   - [ ] Dirty Three
   - [ ] Disasterpeace
@@ -58,7 +56,7 @@
   - [ ] El lenguaje como obstáculo
   - [ ] Eluvium
   - [ ] Esmerine
-  - [ ] Explosions in the Sky
+  - [x] Explosions in the Sky
   - [ ] Farewell Poetry
   - [ ] Fever Ray
   - [ ] Fly Pan AM
@@ -68,8 +66,7 @@
   - [ ] Ghost Bath
   - [ ] Gifts From Enola
   - [ ] Giles Corey
-  - [ ] God Is an Astronaut
-  - [ ] God is an Astronaut
+  - [x] God Is an Astronaut
   - [ ] Godspeed You! Black Emperor
   - [ ] Goldmund
   - [ ] Grails
@@ -77,7 +74,7 @@
   - [ ] Grimes
   - [ ] HRSTA
   - [ ] Hammock
-  - [ ] Harakiri For the Sky
+  - [x] Harakiri For the Sky
   - [ ] Have a Nice Life
   - [ ] Helios
   - [ ] Her Name is Calla
@@ -109,20 +106,20 @@
   - [ ] Lights Out Asia
   - [ ] Liquid Passion
   - [ ] Lite
-  - [ ] Long Distance Calling
+  - [x] Long Distance Calling
   - [ ] Low
   - [ ] M83
-  - [ ] MONO
+  - [x] MONO
   - [ ] Makthaverskan
   - [ ] Malcolm Middleton
   - [ ] Mantaray
-  - [ ] Marillion
+  - [x] Marillion
   - [ ] Maserati
   - [ ] Maybeshewill
-  - [ ] Meanwhile, Back in Communist Russia...
+  - [x] Meanwhile, Back in Communist Russia...
   - [ ] Mew
-  - [ ] Migala
-  - [ ] Mogwai
+  - [x] Migala
+  - [x] Mogwai
   - [ ] Morrisey
   - [ ] Mr Oizo
   - [ ] My Bloody Valentine
@@ -134,7 +131,7 @@
   - [ ] Oathbreaker
   - [ ] Oh Hiroshima
   - [ ] Ola Fløttum
-  - [ ] Paint the Sky Red
+  - [x] Paint the Sky Red
   - [ ] Pelican
   - [ ] Perturbator
   - [ ] Philip Glass
@@ -151,8 +148,8 @@
   - [ ] Saxon Shore
   - [ ] September Malevolence
   - [ ] Set Fire to Flames
-  - [ ] Sigur Rós
-  - [ ] Simple is Good
+  - [x] Sigur Rós
+  - [x] Simple is Good
   - [ ] Slagsmålsklubben
   - [ ] Slint
   - [ ] Slowdive
@@ -175,13 +172,13 @@
   - [ ] The American Dollar
   - [ ] The Angels of Light
   - [ ] The Casket Girls
-  - [ ] The Cure
-  - [ ] The Evpatoria Report
+  - [x] The Cure
+  - [x] The Evpatoria Report
   - [ ] The National
   - [ ] The Samuel Jackson Five
   - [ ] The Smiths
-  - [ ] Thee Silver Mt. Zion
-  - [ ] This Will Destroy You
+  - [x] Thee Silver Mt. Zion
+  - [x] This Will Destroy You
   - [ ] This is Your Captain Speaking
   - [ ] Toe
   - [ ] Tortoise
@@ -194,7 +191,7 @@
   - [ ] We Lost The Sea
   - [ ] Wintergatan
   - [ ] Wohl
-  - [ ] Yndi Halda
+  - [x] Yndi Halda
   - [ ] You'll Never Get to Heaven
   - [ ] You.May.Die.In.The.Desert
   - [ ] glaston
@@ -203,7 +200,7 @@
   - [ ] iamsleepless
   - [ ] mooncake
   - [ ] musicformesier
-  - [ ] múm
+  - [x] múm
   - [ ] perfect human
   - [ ] pg.lost
   - [ ] sleepmakeswaves
