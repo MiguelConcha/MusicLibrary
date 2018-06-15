@@ -1,0 +1,211 @@
+  - [ ] 65daysofstatic
+  - [ ] Abel Korzeniowski
+  - [ ] Agalloch
+  - [ ] Agallock
+  - [ ] Aghast
+  - [ ] Alcest
+  - [ ] All Will Be Quiet
+  - [ ] Amesoeurs
+  - [ ] Amiina
+  - [ ] Anamanaguchi
+  - [ ] And So I Watch You From Afar
+  - [ ] Angelo Badalamenti
+  - [ ] Aphex Twin
+  - [ ] Aphex Twin
+  - [ ] April Rain
+  - [ ] Arab Strap
+  - [ ] Arvo Pärt
+  - [ ] Austin TV
+  - [ ] Balmorhea
+  - [ ] Bark Psychosis
+  - [ ] Beware of Safety
+  - [ ] Big Black Delta
+  - [ ] Black Marble
+  - [ ] Blonde Redhead
+  - [ ] Boards of Canada
+  - [ ] Bohren & der Club of Gore
+  - [ ] Bosse-De-Nage
+  - [ ] Break My Fucking Sky
+  - [ ] Burzum
+  - [ ] CHVRCHES
+  - [ ] Camera Obscura
+  - [ ] Caspian
+  - [ ] Chopin
+  - [ ] Chromatics
+  - [ ] Coctaeu Twins
+  - [ ] Coil
+  - [ ] Collapse Under the Empire
+  - [ ] Crippled Black Phoenix
+  - [ ] Crystal Castles
+  - [ ] Cul de Sac
+  - [ ] Current 93
+  - [ ] Dan Caine
+  - [ ] Deafheaven
+  - [ ] Death Grips
+  - [ ] Death in June
+  - [ ] Die Antwoord
+  - [ ] Die Verbannten Kinder Evas
+  - [ ] Digitalism
+  - [ ] Dirty Three
+  - [ ] Disasterpeace
+  - [ ] Do Make Say Think
+  - [ ] Don Caballero
+  - [ ] Earth
+  - [ ] Ef
+  - [ ] Efterklang
+  - [ ] Einstürzende Neubauten
+  - [ ] El Ten Eleven
+  - [ ] El lenguaje como obstáculo
+  - [ ] Eluvium
+  - [ ] Esmerine
+  - [ ] Explosions in the Sky
+  - [ ] Farewell Poetry
+  - [ ] Fever Ray
+  - [ ] Fly Pan AM
+  - [ ] From Munuments to Masses
+  - [ ] Future Islands
+  - [ ] Gastr del Sol
+  - [ ] Ghost Bath
+  - [ ] Gifts From Enola
+  - [ ] Giles Corey
+  - [ ] God Is an Astronaut
+  - [ ] God is an Astronaut
+  - [ ] Godspeed You! Black Emperor
+  - [ ] Goldmund
+  - [ ] Grails
+  - [ ] Gregor Samsa
+  - [ ] Grimes
+  - [ ] HRSTA
+  - [ ] Hammock
+  - [ ] Harakiri For the Sky
+  - [ ] Have a Nice Life
+  - [ ] Helios
+  - [ ] Her Name is Calla
+  - [ ] Heron
+  - [ ] Hiki
+  - [ ] I/O
+  - [ ] If These Trees Could Talk
+  - [ ] Immanu El
+  - [ ] Infinity Shred
+  - [ ] Isis
+  - [ ] Jakob
+  - [ ] Jeniferever
+  - [ ] Jesu
+  - [ ] John Cage
+  - [ ] Joy Division
+  - [ ] Kalle
+  - [ ] Kavinsky
+  - [ ] Keith Kennif
+  - [ ] Kite
+  - [ ] Krobak
+  - [ ] Kyte
+  - [ ] La ciencia simple
+  - [ ] Lantlôs
+  - [ ] Laura
+  - [ ] Lazerhawl
+  - [ ] Lebanon Hanover
+  - [ ] Leech
+  - [ ] Les Discrets
+  - [ ] Lights Out Asia
+  - [ ] Liquid Passion
+  - [ ] Lite
+  - [ ] Long Distance Calling
+  - [ ] Low
+  - [ ] M83
+  - [ ] MONO
+  - [ ] Makthaverskan
+  - [ ] Malcolm Middleton
+  - [ ] Mantaray
+  - [ ] Marillion
+  - [ ] Maserati
+  - [ ] Maybeshewill
+  - [ ] Meanwhile, Back in Communist Russia...
+  - [ ] Mew
+  - [ ] Migala
+  - [ ] Mogwai
+  - [ ] Morrisey
+  - [ ] Mr Oizo
+  - [ ] My Bloody Valentine
+  - [ ] Navneløs
+  - [ ] Neurosis
+  - [ ] Nick Cave & The Bad Seeds
+  - [ ] Numenorean
+  - [ ] OOIOO
+  - [ ] Oathbreaker
+  - [ ] Oh Hiroshima
+  - [ ] Ola Fløttum
+  - [ ] Paint the Sky Red
+  - [ ] Pelican
+  - [ ] Perturbator
+  - [ ] Philip Glass
+  - [ ] Polinski
+  - [ ] Porcupine Tree
+  - [ ] Radiohead
+  - [ ] Ratatat
+  - [ ] Red Sparowes
+  - [ ] Russian Circles
+  - [ ] Ry Cooder
+  - [ ] Röyksopp
+  - [ ] S U R V I V E
+  - [ ] SQÜRL
+  - [ ] Saxon Shore
+  - [ ] September Malevolence
+  - [ ] Set Fire to Flames
+  - [ ] Sigur Rós
+  - [ ] Simple is Good
+  - [ ] Slagsmålsklubben
+  - [ ] Slint
+  - [ ] Slowdive
+  - [ ] Sobranie 8 18
+  - [ ] Soho Rezanejad
+  - [ ] Sonic Youth
+  - [ ] Spamtron
+  - [ ] Starscream
+  - [ ] Stereolab
+  - [ ] Steven Wilson
+  - [ ] Suffocate for Fuck Sake
+  - [ ] Summoning
+  - [ ] Sunn O)))
+  - [ ] Swans
+  - [ ] THis Will Destroy You
+  - [ ] TR/ST
+  - [ ] Talk Talk
+  - [ ] Talking Heads
+  - [ ] The Album Leaf
+  - [ ] The American Dollar
+  - [ ] The Angels of Light
+  - [ ] The Casket Girls
+  - [ ] The Cure
+  - [ ] The Evpatoria Report
+  - [ ] The National
+  - [ ] The Samuel Jackson Five
+  - [ ] The Smiths
+  - [ ] Thee Silver Mt. Zion
+  - [ ] This Will Destroy You
+  - [ ] This is Your Captain Speaking
+  - [ ] Toe
+  - [ ] Tortoise
+  - [ ] Tristeza
+  - [ ] Ulver
+  - [ ] Unicorn Kid
+  - [ ] Vig Mihály
+  - [ ] We All Inherit The Moon
+  - [ ] We Flood Empty Lakes
+  - [ ] We Lost The Sea
+  - [ ] Wintergatan
+  - [ ] Wohl
+  - [ ] Yndi Halda
+  - [ ] You'll Never Get to Heaven
+  - [ ] You.May.Die.In.The.Desert
+  - [ ] glaston
+  - [ ] iLiKETRAiNS
+  - [ ] iamamiwhoami
+  - [ ] iamsleepless
+  - [ ] mooncake
+  - [ ] musicformesier
+  - [ ] múm
+  - [ ] perfect human
+  - [ ] pg.lost
+  - [ ] sleepmakeswaves
+  - [ ] worriedaboutsatan
+  - [ ] Ólafur Arnalds
