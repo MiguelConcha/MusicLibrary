@@ -176,6 +176,7 @@
   - [ ] The Casket Girls
   - [x] The Cure
   - [x] The Evpatoria Report
+  - [ ] The Knife
   - [ ] The National
   - [ ] The Samuel Jackson Five
   - [ ] The Smiths
