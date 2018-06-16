@@ -202,7 +202,7 @@
   - [ ] iamamiwhoami
   - [ ] iamsleepless
   - [ ] mooncake
-  - [ ] musicformesier
+  - [ ] musicformessier
   - [x] múm
   - [ ] perfect human
   - [ ] pg.lost
