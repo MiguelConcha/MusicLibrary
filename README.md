@@ -1,9 +1,9 @@
   - [x] 65daysofstatic
   - [ ] Abel Korzeniowski
   - [ ] Agalloch
-  - [ ] Aghast
-  - [ ] Alcest
-  - [ ] All Will Be Quiet
+  - [x] Aghast
+  - [x] Alcest
+  - [x] All Will Be Quiet
   - [ ] Amesoeurs
   - [ ] Amiina
   - [x] Anamanaguchi
@@ -39,7 +39,7 @@
   - [ ] Current 93
   - [ ] Dan Caine
   - [x] Deafheaven
-  - [ ] Death Grips
+  - [x] Death Grips
   - [ ] Death in June
   - [ ] Die Antwoord
   - [x] Die Verbannten Kinder Evas
@@ -52,6 +52,7 @@
   - [ ] Ef
   - [ ] Efterklang
   - [ ] Einstürzende Neubauten
+  - [x] Elbow
   - [ ] El Ten Eleven
   - [ ] El lenguaje como obstáculo
   - [ ] Eluvium
@@ -67,7 +68,7 @@
   - [ ] Gifts From Enola
   - [ ] Giles Corey
   - [x] God Is an Astronaut
-  - [ ] Godspeed You! Black Emperor
+  - [x] Godspeed You! Black Emperor
   - [ ] Goldmund
   - [ ] Grails
   - [ ] Gregor Samsa
@@ -77,7 +78,7 @@
   - [x] Harakiri For the Sky
   - [ ] Have a Nice Life
   - [ ] Helios
-  - [ ] Her Name is Calla
+  - [x] Her Name is Calla
   - [ ] Heron
   - [ ] Hiki
   - [ ] I/O
@@ -110,6 +111,7 @@
   - [ ] Low
   - [ ] M83
   - [x] MONO
+  - [x] Magyar Posse
   - [ ] Makthaverskan
   - [ ] Malcolm Middleton
   - [ ] Mantaray
@@ -151,7 +153,7 @@
   - [x] Sigur Rós
   - [x] Simple is Good
   - [ ] Slagsmålsklubben
-  - [ ] Slint
+  - [x] Slint
   - [ ] Slowdive
   - [ ] Sobranie 8 18
   - [ ] Soho Rezanejad
@@ -164,7 +166,7 @@
   - [ ] Summoning
   - [ ] Sunn O)))
   - [ ] Swans
-  - [ ] THis Will Destroy You
+  - [ ] This Will Destroy You
   - [ ] TR/ST
   - [ ] Talk Talk
   - [ ] Talking Heads
