@@ -20,7 +20,7 @@
   - [ ] Bosse-De-Nage
   - [ ] Break My Fucking Sky
   - [ ] Burzum
-  - [ ] CHVRCHES
+  - [x] CHVRCHES
   - [ ] Camera Obscura
   - [ ] Carissa's Wierd
   - [ ] Chopin
