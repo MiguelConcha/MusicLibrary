@@ -1,12 +1,7 @@
-  - [x] 65daysofstatic
   - [ ] Abel Korzeniowski
   - [ ] Agalloch
-  - [x] Aghast
-  - [x] Alcest
-  - [x] All Will Be Quiet
   - [ ] Amesoeurs
   - [ ] Amiina
-  - [x] Anamanaguchi
   - [ ] And So I Watch You From Afar
   - [ ] Angelo Badalamenti
   - [ ] Aphex Twin
@@ -27,7 +22,7 @@
   - [ ] Burzum
   - [ ] CHVRCHES
   - [ ] Camera Obscura
-  - [x] Caspian
+  - [ ] Carissa's Wierd
   - [ ] Chopin
   - [ ] Chromatics
   - [ ] Coctaeu Twins
@@ -38,11 +33,8 @@
   - [ ] Cul de Sac
   - [ ] Current 93
   - [ ] Dan Caine
-  - [x] Deafheaven
-  - [x] Death Grips
   - [ ] Death in June
   - [ ] Die Antwoord
-  - [x] Die Verbannten Kinder Evas
   - [ ] Digitalism
   - [ ] Dirty Three
   - [ ] Disasterpeace
@@ -52,12 +44,10 @@
   - [ ] Ef
   - [ ] Efterklang
   - [ ] Einstürzende Neubauten
-  - [x] Elbow
   - [ ] El Ten Eleven
   - [ ] El lenguaje como obstáculo
   - [ ] Eluvium
   - [ ] Esmerine
-  - [x] Explosions in the Sky
   - [ ] Farewell Poetry
   - [ ] Fever Ray
   - [ ] Fly Pan AM
@@ -67,18 +57,14 @@
   - [ ] Ghost Bath
   - [ ] Gifts From Enola
   - [ ] Giles Corey
-  - [x] God Is an Astronaut
-  - [x] Godspeed You! Black Emperor
   - [ ] Goldmund
   - [ ] Grails
   - [ ] Gregor Samsa
   - [ ] Grimes
   - [ ] HRSTA
   - [ ] Hammock
-  - [x] Harakiri For the Sky
   - [ ] Have a Nice Life
   - [ ] Helios
-  - [x] Her Name is Calla
   - [ ] Heron
   - [ ] Hiki
   - [ ] I/O
@@ -107,21 +93,14 @@
   - [ ] Lights Out Asia
   - [ ] Liquid Passion
   - [ ] Lite
-  - [x] Long Distance Calling
   - [ ] Low
   - [ ] M83
-  - [x] MONO
-  - [x] Magyar Posse
   - [ ] Makthaverskan
   - [ ] Malcolm Middleton
   - [ ] Mantaray
-  - [x] Marillion
   - [ ] Maserati
   - [ ] Maybeshewill
-  - [x] Meanwhile, Back in Communist Russia...
   - [ ] Mew
-  - [x] Migala
-  - [x] Mogwai
   - [ ] Morrisey
   - [ ] Mr Oizo
   - [ ] My Bloody Valentine
@@ -133,7 +112,6 @@
   - [ ] Oathbreaker
   - [ ] Oh Hiroshima
   - [ ] Ola Fløttum
-  - [x] Paint the Sky Red
   - [ ] Pelican
   - [ ] Perturbator
   - [ ] Philip Glass
@@ -150,10 +128,7 @@
   - [ ] Saxon Shore
   - [ ] September Malevolence
   - [ ] Set Fire to Flames
-  - [x] Sigur Rós
-  - [x] Simple is Good
   - [ ] Slagsmålsklubben
-  - [x] Slint
   - [ ] Slowdive
   - [ ] Sobranie 8 18
   - [ ] Soho Rezanejad
@@ -166,7 +141,6 @@
   - [ ] Summoning
   - [ ] Sunn O)))
   - [ ] Swans
-  - [ ] This Will Destroy You
   - [ ] TR/ST
   - [ ] Talk Talk
   - [ ] Talking Heads
@@ -174,14 +148,11 @@
   - [ ] The American Dollar
   - [ ] The Angels of Light
   - [ ] The Casket Girls
-  - [x] The Cure
-  - [x] The Evpatoria Report
   - [ ] The Knife
   - [ ] The National
   - [ ] The Samuel Jackson Five
   - [ ] The Smiths
-  - [x] Thee Silver Mt. Zion
-  - [x] This Will Destroy You
+  - [ ] This Will Destroy You
   - [ ] This is Your Captain Speaking
   - [ ] Toe
   - [ ] Tortoise
@@ -194,7 +165,6 @@
   - [ ] We Lost The Sea
   - [ ] Wintergatan
   - [ ] Wohl
-  - [x] Yndi Halda
   - [ ] You'll Never Get to Heaven
   - [ ] You.May.Die.In.The.Desert
   - [ ] glaston
@@ -203,9 +173,40 @@
   - [ ] iamsleepless
   - [ ] mooncake
   - [ ] musicformessier
-  - [x] múm
   - [ ] perfect human
   - [ ] pg.lost
   - [ ] sleepmakeswaves
   - [ ] worriedaboutsatan
   - [ ] Ólafur Arnalds
+  - [x] 65daysofstatic
+  - [x] Aghast
+  - [x] Alcest
+  - [x] All Will Be Quiet
+  - [x] Anamanaguchi
+  - [x] Caspian
+  - [x] Deafheaven
+  - [x] Death Grips
+  - [x] Die Verbannten Kinder Evas
+  - [x] Elbow
+  - [x] Explosions in the Sky
+  - [x] God Is an Astronaut
+  - [x] Godspeed You! Black Emperor
+  - [x] Harakiri For the Sky
+  - [x] Her Name is Calla
+  - [x] Long Distance Calling
+  - [x] MONO
+  - [x] Magyar Posse
+  - [x] Marillion
+  - [x] Meanwhile, Back in Communist Russia...
+  - [x] Migala
+  - [x] Mogwai
+  - [x] Paint the Sky Red
+  - [x] Sigur Rós
+  - [x] Simple is Good
+  - [x] Slint
+  - [x] The Cure
+  - [x] The Evpatoria Report
+  - [x] Thee Silver Mt. Zion
+  - [x] This Will Destroy You
+  - [x] Yndi Halda
+  - [x] múm
